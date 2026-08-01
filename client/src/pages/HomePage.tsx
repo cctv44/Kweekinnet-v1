@@ -71,11 +71,11 @@ export default function HomePage() {
               className="flex justify-center relative"
             >
               <img
-                src="/manus-storage/kweekinnet-ai-bot-optimized_80f075a7.png"
-                alt="Kweekinnet AI Bot"
-                className="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 object-contain drop-shadow-[0_0_20px_rgba(0,255,255,0.5)] relative z-10"
-              />
-              {/* Animated glow pulse effect */}
+  src="https://img2.pic.in.th/144512.png"
+  alt="Kweekinnet AI Bot"
+  className="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 object-contain drop-shadow-[0_0_20px_rgba(0,255,255,0.5)] relative z-10"
+/>
+                {/* Animated glow pulse effect */}
               <motion.div
                 animate={{
                   boxShadow: [
